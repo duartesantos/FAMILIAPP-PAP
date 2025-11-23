@@ -1,0 +1,44 @@
+# Dependências
+node_modules/
+package-lock.json
+
+# Build outputs
+dist/
+www/
+.angular/
+.ionic/
+platforms/
+plugins/
+
+# IDEs e editores
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+npm-debug.log*
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
+$RECYCLE.BIN/
+
+# Temporários
+*.tmp
+*.temp
+.cache/
+
+# Ambiente
+.env
+.env.local
+
+# Outros
+coverage/
+.sass-cache/
+.sourcemaps/
+.versions/
+
